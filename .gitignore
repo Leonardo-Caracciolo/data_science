@@ -1,0 +1,31 @@
+# Entorno virtual
+.venv/
+env/
+venv/
+__pycache__/
+
+# Archivos temporales de Python
+*.py[cod]
+*.pyo
+
+# Archivos de Jupyter
+.ipynb_checkpoints/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos generados automáticamente
+/output/*.csv
+/output/*.txt
+/output/*.png
+
+# Archivos comprimidos y backups
+*.zip
+*.tar.gz
+*.bak
+*.tmp
+
+# Configuraciones locales del entorno
+.settings/
+.vscode/
