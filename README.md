@@ -1,9 +1,3 @@
-# 📊 Prueba Técnica - Data Science
-
-Este proyecto resuelve las preguntas planteadas en una evaluación técnica de análisis de datos utilizando **Python**, siguiendo buenas prácticas de programación, limpieza de datos, visualización y justificación de decisiones.
-
----
-
 ## 📁 Estructura del Proyecto
 
 ```
@@ -47,7 +41,7 @@ Esto generará todos los archivos en `output/`.
 
 ## 🖼️ Visualización interactiva (opcional)
 
-Podés lanzar una interfaz gráfica para explorar los resultados usando **Streamlit**:
+Se puede lanzar una interfaz gráfica para explorar los resultados usando **Streamlit**:
 
 ```bash
 streamlit run app.py
@@ -98,14 +92,5 @@ Los resultados se guardan automáticamente en la carpeta `output/`, por ejemplo:
 ## 📚 Librerías utilizadas
 
 - Revisar el requirements.txt
-
----
-
-## 📌 Notas finales
-
-- No se asumió que los datos estuvieran limpios.
-- Todas las decisiones están justificadas técnica y analíticamente.
-- Se cumple con el formato de entrega solicitado (.py).
-- La visualización opcional agrega valor para entrevistas o presentación de resultados.
 
 ---
